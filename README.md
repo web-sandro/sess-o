@@ -1,1 +1,3 @@
 # sess-o
+
+npm start
